@@ -1,10 +1,15 @@
 src/
 ├── Admin.java        // Manages admin info and system operations
+
 ├── Book.java         // Represents book details (title, author, etc.)
+
 ├── Database.java     // Holds in-memory "database" of books
+
 └── BookDAO.java      // Provides data access methods (add, delete, find)
 
+
 Class Responsibilities
+
 1. Admin.java
 Contains admin-related data (name, ID, etc.)
 Provides menu-driven interface for admin actions
